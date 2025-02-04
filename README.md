@@ -10,13 +10,5 @@ Vítejte v repozitáři, který obsahuje kódy pro ovládání robotů Mindstorm
 
 ## Návod k použití
 
-1. Stažení repozitáře do vašeho lokálního prostředí.
-2. Otevření příslušného VI souboru v LabVIEW.
-3. Provedení nezbytných úprav v kódu, jako je nastavení Bluetooth spojení, infračervených portů nebo přiřazení klávesových zkratek.
-4. Spuštění VI souboru v LabVIEW a sledování chování robota podle vašich pokynů.
-
-## Poznámka
-
-- Ujistěte se, že máte správně nakonfigurováno prostředí LabVIEW pro použití s NXT/EV3 robotem.
-- Při úpravách kódu nezapomeňte na bezpečnostní opatření a zkontrolujte, že veškeré změny jsou provedeny s ohledem na správné fungování vašeho zařízení.
-- Při jakémkoli problému někoho z profesorů pingněte na discordu
+Stáhněte do vašeho zařízení, ke každému programu je napsané, co je třeba nastavit (porty, připojení)
+!Musíte mít LabVIEW 2016!
